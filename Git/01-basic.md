@@ -34,7 +34,7 @@ git add .
 - 반드시 메시지 내용이 존재
 - 메시지 내용 작성 요령은 언제 커밋을 작성할지라는 시기에 달림 
 
-### Local Repository에서 Gihub 연동
+## Local Repository에서 Gihub 연동
 ---
 ```
 git remote add origin <URL>
@@ -44,7 +44,7 @@ git push origin main
 - remote add origin은 초기에 한번만 작성
 - git push를 통해 Remote Repository에 Local의 내용 저장
 
-### Github에서 Local Repository로 연동
+## Github에서 Local Repository로 연동
 --- 
 ```
 터미널에서
