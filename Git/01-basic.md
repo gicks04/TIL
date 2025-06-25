@@ -43,3 +43,14 @@ git push origin main
 - Gihub의 Remote Repository와 내 Local Repository를 연동
 - remote add origin은 초기에 한번만 작성
 - git push를 통해 Remote Repository에 Local의 내용 저장
+
+### Github에서 Local Repository로 연동
+--- 
+```
+터미널에서
+git clone [URL]
+cd [레포이름]
+code .
+```
+- Github 저장소의 내용을 원하는 폴더로 이동해서 git clone으로 연동
+- 해당 폴더에서 code .을 통해서 vs코드 시작 or vscode에서 파일 열기
